@@ -6,14 +6,14 @@ The objective of this project is to understand the complete drone system includi
 
 This is an educational project and not a commercial product.
 
-## Project Objectives
+Project Objectives
 - Build a stable quadcopter using commonly available components
 - Integrate GPS-assisted flight modes
 - Support a lightweight camera payload
 - Use open-source flight control firmware
 - Maintain clear documentation of the complete build process
 
-## System Overview
+System Overview
 - Frame: F450 class quadcopter frame with integrated PCB wiring
 - Flight Controller: Omnibus F4 V2 PRO with built-in OSD
 - Firmware: ArduPilot (ArduCopter)
@@ -22,10 +22,10 @@ This is an educational project and not a commercial product.
 - Camera: ALA SQ11 Mini Camera (12MP)
 - Storage: AVOC FLASH MC032 32GB Memory Card
 
-## Bill of Materials
+Bill of Materials
 Please see the [BOM](BOM/README.md) folder for the full Bill of Materials with cost estimates.
 
-## Repository Structure
+Repository Structure
 - BOM/ – Bill of materials with cost estimates
 - CAD/ – Custom-designed 3D printable parts
 - Wiring/ – Wiring diagrams and explanations
@@ -33,5 +33,5 @@ Please see the [BOM](BOM/README.md) folder for the full Bill of Materials with c
 - Testing/ – Flight tests, issues, and observations
 - Docs/ – Build process, design decisions, and safety notes
 
-## Contributors
-This project is made by the students of Shri Ram Global School.
+Contributors
+This project is made by the teens of The Hack Club Twilara.
